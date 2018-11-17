@@ -1,0 +1,15 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.15.26730.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetPeb.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.15.26730.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetTeb.asm
+  main.cpp
+  正在生成代码
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  X64GetTebPeb.vcxproj -> C:\Users\Mr.wang\Documents\VSproject\X64GetTebPeb\x64\Release\X64GetTebPeb.exe

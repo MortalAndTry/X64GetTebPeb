@@ -1,0 +1,12 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.15.26730.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetPeb.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler (x64) Version 14.15.26730.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: GetTeb.asm
+  main.cpp
+  X64GetTebPeb.vcxproj -> C:\Users\Mr.wang\Documents\VSproject\X64GetTebPeb\x64\Debug\X64GetTebPeb.exe
